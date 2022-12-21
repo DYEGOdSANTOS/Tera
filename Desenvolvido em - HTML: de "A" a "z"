@@ -1,0 +1,54 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h2>Site bonito</h2>
+    </header>
+    <article>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa 
+            consequatur ad unde, blanditiis pariatur, labore fuga tenetur
+             debitis fugiat error eum illo. Quaerat maxime amet aliquam
+              commodi laboriosam ab placeat deserunt tempora assumenda 
+              repellat nostrum, ea velit aliquid delectus, voluptatem iure
+               nulla et voluptas dolorum, dolores ut officiis quis temporibus?
+        </p>
+
+        <ol>
+            <li>List Item</li>
+            <li>List Item</li>
+            <li>List Item</li>
+            <p>List Item</p>
+            <li>List Item</li>
+            <li>List Item</li>
+        </ol>
+
+       <img "src="https://love.doghero.com.br/wp-content/uploads/2018/12/golden-retriever-1.png" alt="cachorro">
+        
+        <iframe src="https://g1.globo.com/sp/santos-regiao/especial-publicitario/ecovias/noticia/2022/12/19/
+       ecovias-faz-site-para-celebrar-20-anos-da-segunda-pista
+       -da-imigrantes.ghtml" frameborder="0">
+        </iframe>
+        <audio src="enphuria-segregar.mp3"></audio>
+        <video src=""></video>
+
+        <ul>
+            <li>List Item</li>
+            <li>List Item</li>
+            <li>List Item</li>
+            <li>List Item</li>
+        </ul>
+    </article>
+    <footer>
+        <a href="https://www.google.com" target="_blank">Google</a>
+    </footer>
+    
+</body>
+</html>
